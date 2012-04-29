@@ -23,7 +23,7 @@
 #if !defined(CAMERA_H)
 #define CAMERA_H
 
-#include <d3dx9.h>
+#include     <d3dx9.h>
 
 //-----------------------------------------------------------------------------
 // A general purpose 6DoF (six degrees of freedom) vector based camera.
